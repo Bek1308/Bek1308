@@ -1,119 +1,134 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Kattabek%20Ahmadov&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Kattabek%20Ahmadov&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 </p>
 
-<h3 align="center">
-Full Stack .NET Software Engineer<br/>
-Backend-Focused | Clean Architecture | Enterprise Systems
-</h3>
+<h1 align="center">Hi 👋, I'm Kattabek Ahmadov</h1>
+<h3 align="center">Full Stack .NET Developer | Backend-Focused | Banking & Enterprise Systems</h3>
 
 <p align="center">
-📍 Tajikistan &nbsp;|&nbsp; 🌍 Remote <br/>
-📧 ahmadovkattabek1@gmail.com
+  📍 Dushanbe, Tajikistan &nbsp;|&nbsp; 🌍 Open to Remote Opportunities<br/>
+  📧 <a href="mailto:ahmadovkattabek1@gmail.com">ahmadovkattabek1@gmail.com</a> &nbsp;|&nbsp; 📱 +992 00 799 97 98
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bek1308">
+    <img src="https://komarev.com/ghpvc/?username=Bek1308&label=Profile%20Views&color=6366f1&style=flat-square" alt="profile views" />
+  </a>
+  <a href="https://github.com/Bek1308?tab=followers">
+    <img src="https://img.shields.io/github/followers/Bek1308?label=Followers&style=flat-square&color=8b5cf6" alt="followers" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-Full Stack .NET Software Engineer with a strong backend focus and hands-on experience in building **enterprise, banking, and internal business systems**.  
-I specialize in designing **clean, maintainable architectures**, solving complex technical problems, and delivering reliable software solutions.
 
-I have experience integrating **AI features**, including **RAG-based systems**, and I’m comfortable working in **remote, international teams**.  
-Proactive, responsible, and highly motivated engineer who takes ownership and enjoys turning challenging requirements into practical solutions.
+Passionate **Full Stack .NET Developer** with a strong focus on backend architecture and enterprise-grade solutions. Currently working in the **banking sector**, building secure, scalable systems and integrating payment gateways with external financial institutions.
+
+Experienced in designing clean, maintainable codebases using **Clean Architecture**, **SOLID principles**, and modern development practices. Proactive engineer who enjoys solving complex problems and delivering high-quality, reliable software.
 
 ---
 
 ## 🛠 Tech Stack
-### Backend & Architecture
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-<br/>
-- C#, .NET, ASP.NET Core (Web API, MVC)  
-- Clean Architecture, SOLID, Design Patterns  
-- REST APIs, JWT Authentication & Authorization  
-- Dependency Injection, Middleware, Background Services  
-- TCP-based internal services  
 
-### Databases & Data
-<img src="https://skillicons.dev/icons?i=sqlite" />
-<br/>
-- SQL Server, LocalDB, SQLite  
-- Advanced T-SQL, query optimization  
-- Stored Procedures, Indexes  
-- Data analysis & reporting  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,entityframework,dapper,adonET&perline=10&theme=light" />
+</p>
 
-### Frontend / Full Stack
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
-<br/>
-- Angular, TypeScript  
-- ASP.NET MVC, Razor Pages  
-- Bootstrap, Tailwind CSS  
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,js,html,css,bootstrap,tailwind&perline=10&theme=light" />
+</p>
 
-### AI & Automation
-- AI feature integration into business systems  
-- RAG (Retrieval-Augmented Generation)  
-- Local language models & embeddings (offline-first solutions)  
+### Python Ecosystem
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,django&perline=10&theme=light" />
+</p>
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
-<br/>
-- Git, GitHub  
-- Visual Studio, VS Code  
-- Postman, Swagger  
-- SQL Server Management Studio (SSMS)  
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlserver,sqlite&perline=10&theme=light" />
+</p>
+
+### Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,swagger&perline=10&theme=light" />
+</p>
+
+### Additional Skills
+- Clean Architecture, SOLID, Design Patterns
+- RESTful APIs, JWT Authentication, Middleware
+- T-SQL (Stored Procedures, Query Optimization)
+- Relational Database Design & Performance Tuning
+- ASP.NET Boilerplate
 
 ---
 
 ## 💼 Professional Experience
-### Full Stack Software Engineer — Banking Domain  
-**Payvand Group** | Apr 2025 – Present
-- Developing secure backend services and REST APIs for banking and payment systems  
-- Implementing authentication, authorization, and data protection mechanisms  
-- Building full-stack features with Angular, ASP.NET MVC, and Razor Pages  
-- Integrating internal and external services  
-- Writing clean, well-structured, and maintainable code  
 
-### Database Developer / Analyst  
-**Maxsis IT Company** | Jan 2025 – Apr 2025
-- Designed and maintained relational database schemas  
-- Wrote complex SQL queries for analytics and reporting  
-- Optimized database performance and query execution  
-- Supported enterprise systems with data-driven solutions  
+### Full Stack Software Engineer  
+**Payvand Group** (Banking Sector)  
+*April 2025 – Present*
 
----
+- Developing secure and scalable web applications for banking and payment systems
+- Implementing integrations with external banks and financial institutions
+- Designing and building RESTful APIs for seamless inter-system communication
+- Working across full stack: backend services, APIs, and frontend interfaces
+- Ensuring high standards of reliability, performance, and financial compliance
 
-## 🚀 Key Projects
-- **Enterprise WinForms Applications** — business process automation, full management systems, custom architectures  
-- **Web Applications** — Help Desk systems, internal tools, e-commerce solutions  
-- **Backend APIs & Services** — ASP.NET Core REST APIs, background services, TCP-based systems  
-- **AI-Integrated Systems** — RAG pipelines combining search, embeddings, and generation  
-- **Telegram Bots** — C# & Python bots for automation, notifications, and data access  
+### Database Developer (Internship)  
+**Maxsis IT Company**  
+*January 2025 – April 2025*
+
+- Designed and maintained relational database schemas
+- Wrote complex, optimized T-SQL queries and stored procedures
+- Created business intelligence reports and analytics solutions
+- Performed query tuning and database performance optimization
+- Ensured data integrity and supported enterprise system integration
 
 ---
 
 ## 🎓 Education
-**Tajik Technical University named after Academician M.S. Osimi**  
-Bachelor’s Degree — *In Progress*
 
+### Bachelor’s Degree (In Progress)  
+**Tajik Technical University named after Academician M.S. Osimi**  
+*January 2025 – Present*  
+Automation of Information Processing Systems
+
+### Bachelor’s Degree (Completed up to 3rd year)  
 **Ural State University of Railway Transport (UrGUPS), Russia**  
-Bachelor’s Degree — *Completed up to 3rd year*
+*September 2022 – January 2025*  
+Information Technology
 
 ---
 
 ## 🌍 Languages
-- English — Upper-Intermediate (B2)  
-- Russian — Fluent  
-- Uzbek — Native  
-- Tajik — Native  
+
+- 🇷🇺 Russian — Fluent
+- 🇬🇧 English — Upper-Intermediate (B2)
+- 🇺🇿 Uzbek — Native
+- 🇹🇯 Tajik — Native
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Bek1308&theme=dracula&no-frame=true&margin-w=15&row=1" alt="Trophies" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bek1308&theme=dracula&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bek1308&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bek1308&layout=compact&theme=dracula&hide_title=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-✨ Open to Remote Opportunities | Backend & Full-Stack (.NET) ✨
+  ✨ Actively seeking Remote Full Stack / Backend .NET opportunities ✨<br/>
+  <i>Let's build secure, scalable, and impactful solutions together!</i>
 </p>
